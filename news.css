@@ -1,0 +1,64 @@
+
+
+body{
+    padding: 30px;
+}
+.d-flex{
+    display: flex;
+    align-items: center;
+}
+header nav li a{
+    text-decoration: none;
+    color: #3D58A6;
+    font-size: 22px;
+    font-family: 'BPG Nino Mtavruli Bold';
+}
+header nav li{
+    list-style-type: none;
+    padding-left: 27px;
+}
+header nav li a.active{
+    color: #EE4036;
+}
+h6{
+    margin-top: 46px;
+    background-color: #3D58A6;
+    color: #ffffff;
+    font-family: 'BPG Nino Mtavruli';
+    font-size: 37px;
+    padding: 12px;
+    padding-right: 0;
+    padding-bottom: 0;
+    width: 50px;
+
+}
+h4{
+    font-size: 22px;
+    color: #3D58A6;
+    font-family: 'BPG Nino Mtavruli';
+    margin-top: 7px;
+    font-weight: 400;
+
+}
+h2{
+    margin-top: 22px;
+    margin-bottom: 16px;
+    font-family: "BPG Nino Mtavruli", sans-serif;   
+     font-size: 20px;
+     font-weight: 400;
+}
+section p{
+    padding-left: 40px;
+    padding-top: 16px;
+    margin-top: 16px;
+    font-family: 'BPG Ingiri Arial';
+    font-size: 16px;
+}
+footer{
+    list-style-type: none;
+  
+}
+footer nav li{
+    padding-top: 45px;
+    padding-left: 30px;
+}
